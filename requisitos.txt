@@ -1,0 +1,53 @@
+O USUÁRIO PODE:
+
+- ADICIONAR UMA TAREFA;
+- EDITAR UMA TAREFA;
+- VIZUALIZAR AS TAREFAS;
+- EXCLUIR TAREFA;
+- VER OS DADOS DE UMA TAREFA;
+- MARCAR COMO CONCLUÍDA;
+- DESMARCAR COMO CONCLUIÍDA.
+
+
+============================================================================================
+
+
+ROTAS:
+
+/task                       - ADICIONAR UMA TAREFA;
+
+{
+    id:
+    title:
+    status:
+    content:
+}
+---------------------------------------------------------------------------------------------
+
+/task/:id                - EDITAR UMA TAREFA;
+
+
+{
+    id:
+    title:
+    status:
+    content:
+}
+---------------------------------------------------------------------------------------------
+
+/task/:id                 - EXCLUIR TAREFA;
+
+
+{
+    id:
+}
+
+---------------------------------------------------------------------------------------------
+
+/task                       - VIZUALIZAR AS TAREFAS;
+
+---------------------------------------------------------------------------------------------
+
+/task/:id                  - VER OS DADOS DE UMA TAREFA;
+
+---------------------------------------------------------------------------------------------
