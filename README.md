@@ -7,11 +7,11 @@ Por fim, esta também trabalha com esturturas simples de Controllers, Services, 
 
 Para estre projeto, foram utilizadas as seguintes tecnologias:
 
-NodeJS;
-TypeScript;
-Express.js;
-Git;
-Postman;
+NodeJS; <br>
+TypeScript/JavaScript; <br>
+Express.js; <br>
+Git; <br>
+Postman; <br>
 
 ![image](https://github.com/user-attachments/assets/a6e30fb5-3073-461b-99ac-dffc05f39bff)
 
